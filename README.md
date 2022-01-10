@@ -1,6 +1,6 @@
 # Sample-Mail-App
 
-This is a sample-Mail project using **DOM** concepts and **JSON**
+This is a sample-Mail project using **DOM** concepts and **JSON** .
 ### Uses :
 * You can *compose* a Mail.
 * you can *send* a Mail.
